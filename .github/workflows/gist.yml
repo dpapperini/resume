@@ -7,10 +7,10 @@ jobs:
     runs-on: ubuntu-latest 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Update Resume Gist
-      uses: exuanbo/actions-deploy-gist@v1
+      uses: exuanbo/actions-deploy-gist@v1.1.4
       with:
         token: ${{ secrets.TOKEN }}
         gist_id: c3483b0390ba6848d4ffa8a6f3294f4d
