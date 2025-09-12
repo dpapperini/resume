@@ -3,26 +3,35 @@
     "theme": "elegant"
   },
   "basics": {
-    "name": "Thomas Davis",
-    "label": "Web Developer",
-    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
-    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
-    "website": "https://lordajax.com",
-    "email": "thomasalwyndavis@gmail.com",
+    "name": "Papperini Daniele Stefano Marco",
+    "label": "Senior Technologist | Full Stack Developer & AI Specialist",
+    "image": "https://avatars.githubusercontent.com/u/77624959?s=400&v=4",
+    "summary": "Senior Developer Full Stack con oltre 10 anni di esperienza nella progettazione, sviluppo e implementazione di soluzioni applicative complete. Specializzato in PHP, Python e Node.js, con una solida competenza nell'utilizzo di tecnologie AI (Google AI Studio, Gemini, OpenAI) e workflow automatizzati. Esperto nella gestione di servizi cloud (AWS, Google Services), nell'analisi dati (BigQuery, Looker Studio) e nell'ottimizzazione di progetti ETL. Sempre alla ricerca di una posizione che mi permetta di applicare le mie competenze tecniche avanzate e la mia passione per le nuove tecnologie per risolvere sfide complesse e guidare l'innovazione.\n\nGitHub: https://github.com/dpapperini\n\nBitBucket: https://bitbucket.org/dpapperini",
+    "email": "daniele.papperini@gmail.com",
     "location": {
-      "city": "Melbourne",
-      "countryCode": "AU"
+      "city": "Milan",
+      "countryCode": "IT"
     },
     "profiles": [
       {
-        "username": "ajaxdavis",
-        "url": "https://twitter.com/ajaxdavis",
-        "network": "twitter"
+        "url": "https://linkedin.com/in/daniele-papperini",
+        "username": "daniele-papperini",
+        "network": "linkedin"
       },
       {
-        "url": "https://github.com/thomasdavis",
-        "username": "thomasdavis",
+        "url": "https://github.com/dpapperini",
+        "username": "dpapperini",
         "network": "github"
+      },
+      {
+        "url": "https://bitbucket.org/dpapperini",
+        "username": "dpapperini",
+        "network": "bitbucket"
+      },
+      {
+        "username": "dpapperini",
+        "url": "https://twitter.com/dpapperini",
+        "network": "twitter"
       }
     ]
   },
