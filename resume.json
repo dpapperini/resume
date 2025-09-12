@@ -55,43 +55,256 @@
       "fluency": "B1 - Intermedio"
     }
   ],
-    },
-    {
-      "reference": "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player.",
-      "name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet"
-    },
-    {
-      "reference": "On Thomas Davis... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do.",
-      "name": "Greg Davis"
-    }
-  ],
   "skills": [
     {
-      "keywords": [
-        "HTML / JSX",
-        "SCSS / CSS / BEM / Styled Components",
-        "Javascript / Typescript",
-        "React / Next",
-        "Redux / Apollo"
-      ],
-      "level": "Senior",
-      "name": "Frontend"
+      "name": "Amazon Web Services",
+      "level": "",
+      "keywords": []
     },
     {
-      "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
-      "level": "Senior",
-      "name": "Backend"
+      "name": "Google Services",
+      "level": "",
+      "keywords": []
     },
     {
-      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
-      "level": "Senior",
-      "name": "Devops"
-    }
-  ],
-  "awards": [
+      "name": "BigQuery",
+      "level": "",
+      "keywords": []
+    },
     {
-      "title": "Defender of the Internet",
-      "awarder": "Fight For The Future"
+      "name": "Intelligenza artificiale",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Switch",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Adwords",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SASS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strumenti per i Webmaster di Google",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SparkAR",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "API di Facebook",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Firewall",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Nginx",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Server Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Windows",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Router",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Knime",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Documenti",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing di Facebook",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Web Toolkit",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Facebook",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strumenti di Intelligenza Artificiale Generativa",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google+",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CakePHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Apps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sviluppo Web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Maps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CodeIgniter",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Joomla",
+      "level": "",
+      "keywords": []
     }
   ],
   "work": [
