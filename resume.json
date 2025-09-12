@@ -502,16 +502,28 @@
   ],
   "interests": [
     {
-      "name": "Gardening"
+      "name": "Open Source",
+      "keywords": [
+        "Contributor"
+      ]
     },
     {
-      "name": "Music / Jamming"
+      "name": "Scoutismo",
+      "keywords": [
+        "16 anni di esperienza, da Lupetto a Rover"
+      ]
     },
     {
-      "name": "Reading / Writing"
+      "name": "Pallanuoto",
+      "keywords": [
+        "10 anni a livello agonistico"
+      ]
     },
     {
-      "name": "Open Source"
+      "name": "Puzzle",
+      "keywords": [
+        "da 500, 1000, 1500, 2000 pezzi"
+      ]
     }
   ]
 }
