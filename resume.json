@@ -309,30 +309,86 @@
   ],
   "work": [
     {
-      "summary": "Tokenized is a Bitcoin wallet for issuing, managing and trading digital tokens. I built out the front end which was packaged as an electron app. It was a difficult frontend to build because we store the users keys locally and used them to sign transactions and contracts.",
-      "website": "https://tokenized.com/",
-      "name": "Tokenized",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2020-05-05",
-      "highlights": ["React", "Redux", "SCSS", "Product"]
+      "name": "Hello,",
+      "position": "Senior Technologist",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Esperto in Full Stack, AI e Cloud Computing.\nApplico le mie competenze per ottimizzare i dati e guidare l'innovazione.\n\nTecnologie, strumenti e linguaggi di programmazione adottati:\nGit\nNGINX, Apache2, NodeJS\nDocker\nMySQL (5/8), MongoDB, Redis\nPHP (8, Laravel 8-12, Wordpress, Symfony), Python (3.9-3.12)\nHTML5, Twig, Blade, CSS3 (SASS/LESS), jQuery, Javascript, Typescript, React, Vue, Next.js\nAWS: EC2, RDS, S3, CloudFront, S3, SES\nGoogle: BigQuery, Storage, Cloud Functions/Cloud Run, Gemini Gen. Embeddings/Text/Audio/Image, Vertex AI, YouTube\nOpenAI: ChatGPT, GPTs, API, Assistants, Call Functions, Gen. Embeddings/Text/Audio/Image\nStable Diffusion (ComfyUI), Midjourney (6/7), ChatGPT, Imagen\nRunwayML (Gen. 1/2)\nSpark AR, Effect House, Web GL (OpenGL)\nLooker Studio, Knime (5.2/5.4)\nAdmin Console (Adobe, AWS, Google, Microsoft Office, Okta, Jamf)\n\nResponsabilità:\nCollaborazione con i product owner per discutere e definire le nuove funzionalità.\nPartecipazione attiva a tutte le fasi del progetto, dall'ideazione all'esecuzione finale.\nGarantire l'ottimizzazione per dispositivi mobile e desktop (responsive design).\nSviluppo di nuove funzionalità back-end e front-end.\nProgettazione e integrazione di API REST.\nImplementazione di nuove funzionalità e correzioni di errori, rispettando le linee guida di codifica.\nRimanere costantemente aggiornato sulle nuove tecnologie e tendenze nel mondo dello sviluppo e dell'AI.\nCreazione e manutenzione di Dashboard in Looker Studio\nCreazione e manutenzione di workflow Knime per analisi dati da piattaforme come Sprinklr e Tagger CSV/Excel, Emplifi BigQuery e compilazione report in Google Sheets.\nCreazione di workflow personalizzati con ComfyUI per generazione di immagini tramite Stable Diffusion.\nMantenimento della documentazione tecnica e organizzazione di workshop interni sull'utilizzo di strumenti AI (es: Midjurney, Gemini, OpenAI, scrittura prompt e contesto per differenti casi d’uso).\nFornitura di supporto IT di primo e secondo livello.",
+      "url": "https://www.linkedin.com/company/thisishello/",
+      "location": "Milano, Lombardia, Italia"
     },
     {
-      "summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
-      "website": "https://platform.blockbid.io",
-      "name": "Blockbid",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2018-03-01",
-      "endDate": "2020-01-01",
-      "highlights": [
-        "React, Apollo, Styled Components",
-        "Node.js / Rails",
-        "Docker / Heroku / GCP",
-        "Used Figma for design and UX work",
-        "Optimizing markets with tens of millions of rows using SQL."
-      ]
+      "name": "We Are Social",
+      "position": "Senior Technologist",
+      "startDate": "2021-01-01",
+      "endDate": "2023-12-31",
+      "highlights": [],
+      "summary": "Sviluppo e progettazione funzionalità per progetti interni e clienti usando tecnologie come Laravel, WordPress, Python e Node.js. Sviluppo di landing page, DEM e siti web, focalizzandomi su correzione di bug, refactoring e ottimizzazione del codice.\nProgettato e implementato Assistenti OpenAI per l'analisi di documenti e ho sviluppato Dashboard in Looker Studio per analizzare dati YouTube.\nSviluppato, progettato e mantenuto servizi Cloud Run per l'ingestion di dati da API di Emplifi, YouTube, salvandoli in BigQuery.\nCreazione filtri di Realtà Aumentata per Instagram e TikTok tramite Spark AR ed Effect House. \n\nTecnologie, strumenti e linguaggi di programmazione adottati:\nVersion Control: Git\nServer: NGINX, Apache2, NodeJS\nVirtualizzazione: Docker\nDatabase: MySQL (5/8), MongoDB, Redis\nLinguaggi e Framework:\n- Backend: PHP (7/8, Laravel 7/8, Drupal, Symfony), Python (3.9/3.10/3.11)\n- Frontend: HTML5, CSS3 (SASS/LESS), Javascript, Typescript, React, Vue, Next.js\nCloud e Servizi:\n- AWS: EC2, RDS, S3, Bedrock\n- Google Cloud: BigQuery, Storage, Cloud Functions, Gemini, Vertex AI, GEMs\n- OpenAI: ChatGPT, GPTs, API, Assistants\nAI Generativa e Realtà Aumentata:\n- Testo/Audio: OpenAI, Gemini\n- Immagini: Stable Diffusion, Midjourney\n- Video: RunwayML\n- AR: Spark AR, Effect House\n- Business Intelligence: Looker Studio, Knime\n\nResponsabilità:\n- Responsabile dello sviluppo e della progettazione di interazioni utente, garantendo l'ottimizzazione per dispositivi mobile e desktop.\n- Sviluppo di nuove funzionalità back-end e front-end, della progettazione e integrazione di API REST e della risoluzione degli errori.\n- Collaborare attivamente con i product owner per definire le nuove funzionalità e partecipare a tutte le fasi del progetto, dall'ideazione all'esecuzione.\n- Rimanere costantemente aggiornato sulle nuove tecnologie e tendenze nel mondo dello sviluppo e dell'AI.",
+      "url": "https://www.linkedin.com/company/we-are-social/",
+      "location": "Milano, Lombardia, Italia"
     },
+    {
+      "name": "DigitalStack",
+      "position": "Senior Web Developer Full Stack",
+      "startDate": "2020-07-01",
+      "endDate": "2020-12-31",
+      "highlights": [],
+      "summary": "Sviluppo e implementazione di nuove funzionalità per differenti progetti.\nSviluppo di plugin Wordpress/API (single/multi site) e Dashboard/API (Laravel 7), nonché correzione di bug, refactoring del codice, ottimizzazione del codice.\n\nTecnologie, strumenti e linguaggi di programmazione adottati:\n- Git\n- NGINX/Apache2\n- Docker\n- MySQL 5/8\n- Redis\n- PHP 5/6/7\n- HTML5\n- CSS3 (SASS/LESS)\n- jQuery\n- Javascript ES5/ES6\n- Vue\n- Vuetify\n- Design Pattern: MVC\n\nResponsabilità:\n- Progettazione e integrazione di API REST\n- Sviluppo di nuove funzionalità (back-end e front-end)\n- Implementazione di funzionalità e correzioni di errori, in conformità con le linee guida di codifica\n- Discussione sulle funzionalità nuove ed esistenti con i proprietari dei prodotti",
+      "url": "https://www.linkedin.com/company/digitalstackit/",
+      "location": "Milano, Lombardia, Italia"
+    },
+    {
+      "name": "Friendz",
+      "position": "Analista Software",
+      "startDate": "2018-10-01",
+      "endDate": "2020-02-28",
+      "highlights": [],
+      "summary": "Sviluppo e implementazione di nuove funzionalità in App Friendz (React Native 0.60) o in Dashboard (Laravel 5/6), nonché correzione di bug, refactoring del codice, ottimizzazione del codice e customer care.\n\nTecnologie, strumenti e linguaggi di programmazione adottati:\n- Git\n- NGINX\n- Docker\n- MySQL\n- Redis\n- React\n- React Native\n- PHP Laravel 5/6\n- jQuery\n- Javascript ES5/ES6\n- AWS Service (EC3, S3, RDS, Aurora)\n- Design Pattern: DTO, DAO, MVC\n\nResponsabilità:\n- Sviluppo di nuove funzionalità (back-end e front-end)\n- Implementazione di funzionalità e correzioni di errori, in conformità con le linee guida\ndi codifica\n- Progettazione e integrazione di API REST\n- Sviluppo e supporto dell'architettura server\n- Sviluppo della progettazione di database, supporto ad alte business unit per\nestrapolazione dei dati\n- Discussione sulle funzionalità nuove ed esistenti con i proprietari dei prodotti\n- Lavorare a stretto contatto con altri sviluppatori, progettisti di UX, analisti aziendali e\ndi sistemi",
+      "url": "https://www.linkedin.com/company/friendz-enterprise/",
+      "location": "Chiasso, Canton Ticino, Svizzera"
+    },
+    {
+      "name": "Mission Bambini",
+      "position": "Consulente Tecnico Senior",
+      "startDate": "2012-08-01",
+      "endDate": "2018-10-31",
+      "highlights": [],
+      "summary": "Sviluppo e implementazione di nuove funzionalità per i siti istituzionali della fondazione (www.missionbambini.org, www.missionbambini.ch), landing page (www.adottauncuore.it, www.adozioninvicinanza.it), e-commerce (regalisolidali.missionbambini.org), blog (blog.missionbambini.org); generalmente creati con l'utilizzo di CMS come Joomla e Wordpress per una maggiore fruibilità da parte degli editori all’interno della fondazione.\n\nTecnologie, strumenti e linguaggi di programmazione adottati:\n- CMS (Joomla, Wordpress, VirtueMart)\n- NGINX\n- Apache\n- MySQL\n- PHP\n- CSS2/CSS3\n- Bootstrap\n- Foundation\n- HTML5\n- jQuery\n- Javascript ES5/ES6\n- Debian 7\n- DNS\n\nResponsabilità:\n- Sviluppo di nuove funzionalitá (back-end e front-end)\n- Sviluppo di plugin, moduli, template e componenti per Joomla 2.5/3x\n- Implementazione di funzionalità e correzioni di errori, in conformità con le linee guida di codifica\n- Integrazione di API REST (PayPal, Facebook, Google Maps, Youtube)\n- Configurazione, gestione e monitoring dei server e servizi web (domini, cloud e backup) utilizzati dalla fondazione.\n- Sviluppo della progettazione di database, supporto ad alte business unit per estrapolazione dei dati\n- Configurazione e gestione dei domini\n- Discussione sulle funzionalità nuove ed esistenti con i proprietari dei prodotti\n- Lavorare a stretto contatto con altri progettisti di UX, analisti aziendali e consulenti",
+      "url": "https://www.linkedin.com/company/mission-bambini/",
+      "location": "Milano, Italia"
+    },
+    {
+      "name": "Ottima idea!",
+      "position": "Senior Web Developer Full Stack",
+      "startDate": "2013-01-01",
+      "endDate": "2018-05-31",
+      "highlights": [],
+      "summary": "Manutenzione parco macchine e server (OS: Mac/Win/Linux)\nSviluppo siti web e newsletter\nBasic Networking\nPresentazioni e ricerca gadgets/regali per eventi\nConsulenza esterna per gestione di server e siti web per i clienti\nGestione ordini fornitori\nGestione magazzino\nGestione centralino VoIP\n\nTecnologie, strumenti e linguaggi di programmazione adottati:\n- NGINX\n- Apache\n- MySQL\n- PHP CakePHP/CodeIgniter\n- CSS2/CSS3 (SASS/LESS)\n- Bootstrap\n- Foundation\n- HTML5\n- jQuery\n- Javascript ES5/ES6\n- Debian 7\n- DNS\n\nResponsabilità:\n- Manutenzione parco macchine e server (OS: Mac/Win/Linux)\n- Sviluppo di nuove funzionalità (back-end e front-end) per i vari siti dei clienti ed interni\n- Implementazione di funzionalità e correzioni di errori, in conformità con le linee guida di codifica\n- Progettazione e integrazione di API REST (PayPal, Facebook, Google Maps, Youtube)\n- Configurazione, gestione e monitoring dei server e servizi web (domini, cloud e backup) per i clienti e l'azienda\n- Sviluppo della progettazione di database, supporto ad alte business unit per estrapolazione dei dati\n- Consulenza esterna per gestione di server e siti web per i clienti\n- Gestione e manutenzione rete LAN aziendale e VoIP, anche per alcuni clienti\n- Discussione sulle funzionalità nuove ed esistenti con i proprietari dei prodotti\n- Presentazioni e ricerca gadgets/regali per eventi\n- Gestione ordini fornitori\n- Gestione magazzino",
+      "url": "https://www.linkedin.com/company/ottima-idea-/",
+      "location": "Via Adda 23, 20090 Milano (Italia)"
+    },
+    {
+      "name": "RedStyler",
+      "position": "Web Developer Full Stack",
+      "startDate": "2009-02-01",
+      "endDate": "2015-10-31",
+      "highlights": [],
+      "summary": "Manutenzione computer (OS: Mac/Win/Linux)\nSviluppo siti web e newsletter",
+      "url": "",
+      "location": "Via Rombon, 39, 20134 Milano (Italia)"
+    },
+    {
+      "name": "SAGICOFIM SPA",
+      "position": "Stage studentesco",
+      "startDate": "2005-07-01",
+      "endDate": "2005-08-31",
+      "highlights": [],
+      "summary": "Carico e scarico bolle magazzino su AS400",
+      "url": "https://www.linkedin.com/company/sagicofim-italia/",
+      "location": "Via Firenze 1, 20063 Cernusco sul Naviglio Milano (Italia)"
+    }
+  ],
     {
       "highlights": [
         "Worked with Postgres, Redis and Dynamodb for storage.",
