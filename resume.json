@@ -6,7 +6,7 @@
     "name": "Papperini Daniele Stefano Marco",
     "label": "Senior Technologist | Full Stack Developer & AI Specialist",
     "image": "https://avatars.githubusercontent.com/u/77624959?s=400&v=4",
-    "summary": "Senior Developer Full Stack con oltre 10 anni di esperienza nella progettazione, sviluppo e implementazione di soluzioni applicative complete. Specializzato in PHP, Python e Node.js, con una solida competenza nell'utilizzo di tecnologie AI (Google AI Studio, Gemini, OpenAI) e workflow automatizzati. Esperto nella gestione di servizi cloud (AWS, Google Services), nell'analisi dati (BigQuery, Looker Studio) e nell'ottimizzazione di progetti ETL. Sempre alla ricerca di una posizione che mi permetta di applicare le mie competenze tecniche avanzate e la mia passione per le nuove tecnologie per risolvere sfide complesse e guidare l'innovazione.\n\nGitHub: https://github.com/dpapperini\n\nBitBucket: https://bitbucket.org/dpapperini",
+    "summary": "Senior Developer Full Stack con oltre 10 anni di esperienza nella progettazione, sviluppo e implementazione di soluzioni applicative complete. Specializzato in PHP, Python e Node.js, con una solida competenza nell'utilizzo di tecnologie AI (Google AI Studio, Gemini, OpenAI) e workflow automatizzati. Esperto nella gestione di servizi cloud (AWS, Google Services), nell'analisi dati (BigQuery, Looker Studio) e nell'ottimizzazione di progetti ETL. Sempre alla ricerca di una posizione che mi permetta di applicare le mie competenze tecniche avanzate e la mia passione per le nuove tecnologie per risolvere sfide complesse e guidare l'innovazione.",
     "email": "daniele.papperini@gmail.com",
     "location": {
       "city": "Milan",
@@ -42,7 +42,7 @@
       "area": "Perito tecnico informatico",
       "studyType": "Scuola Media Superiore",
       "startDate": "2000-09-01",
-      "endDate": "2005-07-10",
+      "endDate": "2005-07-10"
     }
   ],
   "languages": [
@@ -309,7 +309,7 @@
   ],
   "work": [
     {
-      "name": "Hello,",
+      "name": "This Is Hello",
       "position": "Senior Technologist",
       "startDate": "2024-01-01",
       "endDate": "",
@@ -369,13 +369,13 @@
       "location": "Via Adda 23, 20090 Milano (Italia)"
     },
     {
-      "name": "RedStyler",
+      "name": "RedStyle",
       "position": "Web Developer Full Stack",
       "startDate": "2009-02-01",
       "endDate": "2015-10-31",
       "highlights": [],
       "summary": "Manutenzione computer (OS: Mac/Win/Linux)\nSviluppo siti web e newsletter",
-      "url": "",
+      "url": "https://www.redstyle.it/",
       "location": "Via Rombon, 39, 20134 Milano (Italia)"
     },
     {
@@ -406,7 +406,7 @@
       ]
     },
     {
-      "name": "Scoutismo",
+      "name": "Scout",
       "keywords": [
         "16 anni di esperienza, da Lupetto a Rover"
       ]
